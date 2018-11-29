@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tes1">Tes 1</string>
+
+    <string name="G1">Bengkak</string>
+    <string name="G2">Batuk</string>
+    <string name="G3">Demam</string>
+    <string name="G4">Perut Sebah</string>
+    <string name="G5">Badan Lemas</string>
+    <string name="G6">Nyeri Perut</string>
+    <string name="G7">Wajah Pucat</string>
+    <string name="G8">Mual Muntah</string>
+    <string name="G9">Sesak Nafas</string>
+    <string name="G10">Nyeri Pinggang/Nyeri Perut Tembus</string>
+    <string name="G11">BAK Nyeri/Sulit</string>
+    <string name="G12">BAK Berdarah</string>
+    <string name="G13">Sulit Makan</string>
+    <string name="G14">Kepala Pusing</string>
+    <string name="G15">Sulit Tidur</string>
+    <string name="G16">Ngos-ngosan</string>
+</resources>
